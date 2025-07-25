@@ -109,12 +109,12 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Successfully tested on:
 
-✅ NVIDIA T4 VM (Azure NCas T4 v3)
-✅ Port 8000 exposed via Docker
-✅ Predictions returned using cURL and Swagger UI
+NVIDIA T4 VM (Azure NCas T4 v3)
+Port 8000 exposed via Docker
+Predictions returned using cURL and Swagger UI
 
 
